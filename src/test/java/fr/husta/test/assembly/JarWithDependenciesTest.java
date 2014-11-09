@@ -17,7 +17,7 @@ public class JarWithDependenciesTest
     public void checkMetaInfContent() throws IOException
     {
         // check META-INF/services/java.sql.Driver exists
-        JarFile jar = new JarFile("target/issue-mvn-assembly-plugin-2_5-jar-with-dependencies.jar");
+        JarFile jar = new JarFile("target/issue-mvn-assembly-plugin-730-jar-with-dependencies.jar");
         JarEntry entry = jar.getJarEntry("META-INF/services/java.sql.Driver");
         if (entry == null)
         {
