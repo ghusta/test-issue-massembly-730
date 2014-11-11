@@ -1,6 +1,7 @@
 ### Resume :
 
-Test case for [MASSEMBLY-730](https://jira.codehaus.org/browse/MASSEMBLY-730)
+Test case for [MASSEMBLY-730](https://jira.codehaus.org/browse/MASSEMBLY-730).  
+Short description : jar-with-dependencies : a file in a dependency is overridden by the same file in JDK / JRE
 
 ### List of branches :
 
